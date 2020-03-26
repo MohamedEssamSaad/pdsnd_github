@@ -1,4 +1,4 @@
-## import all necessary packages and functions edit 1
+## import all necessary packages and functions
 import time
 import pandas as pd
 import numpy as np
@@ -9,6 +9,8 @@ chicago = 'chicago.csv'
 new_york_city = 'new_york_city.csv'
 washington = 'washington.csv'
 
+## Edit 1
+## Edit 2
 
 def get_city():
     '''Asks the user for a city and returns the filename for 
