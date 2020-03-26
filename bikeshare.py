@@ -9,6 +9,7 @@ chicago = 'chicago.csv'
 new_york_city = 'new_york_city.csv'
 washington = 'washington.csv'
 
+# Edit 1 in refactoring 
 
 def get_city():
     '''Asks the user for a city and returns the filename for 
